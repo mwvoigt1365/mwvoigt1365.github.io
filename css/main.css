@@ -1,0 +1,84 @@
+/...........
+GENERAL STYLES
+............/
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/...........
+HEADER
+............/
+
+header {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/...........
+NAVIGATION
+............/
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;    
+}
+
+/...........
+FOOTER
+............/
+
+footer {
+    text-align: center;
+}
+
+/...........
+PAGE: PORTFOLIO
+............/
+
+#gallery {
+    list-style: none;
+}
+
+
+
+/.......................
+COLORS
+.................../
+
+header {
+    background-color: #599a68;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+nav a {
+    color: #fff;
+}
+
+.selected {
+    color: #32673f;
+}
